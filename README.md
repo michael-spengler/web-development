@@ -1,10 +1,7 @@
 # Web Development
 
-## Introducing Git 
-[Git](https://git-scm.com/downloads) can be seen as a version control system.
-
-## Introducing GitHub
-[GitHub](https://github.com/) can be seen as a collaboration platform which leverages Git.
+## Introducing Git & GitHub
+[GitHub](https://github.com/) can be seen as a collaboration platform which leverages [Git](https://git-scm.com/downloads).
 
 ## Introducing Visual Studio Code
 [Visual Studio Code](https://code.visualstudio.com/insiders/) is an integrated development environment (IDE).
@@ -36,6 +33,9 @@ The blockchain technology (aka distributed ledger technology) became famous as i
 ## Introducing Ethereum
 [Ethereum](https://ethereum.org/en) is a blockchain based open source platform for decentralized applications.
 
+## Introducing Brave 
+[Brave](https://brave.com) is a web browser with integrated crypto wallet features.
+
 ## Introducing Smart Contracts
 A "smart contract" is a program that runs on the Ethereum blockchain.
 
@@ -46,7 +46,7 @@ A "smart contract" is a program that runs on the Ethereum blockchain.
 [Verto](https://verto.exchange/) is a decentralized token exchange.
 
 ## Introducing Peer 2 Peer Enterprise
-Peer 2 Peer enterprise is under development :D 
+Peer 2 Peer enterprise is under construction :D 
 
 ## Introducing Augur
 [Augur](https://www.augur.net/) is a decentralized betting- / truth finding platform. 
