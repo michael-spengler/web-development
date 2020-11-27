@@ -31,7 +31,7 @@ Frontend development frameworks simplify the development of code which is execut
 [Flutter](https://flutter.dev/) is a toolkit for building native mobile-, web-, and desktop- apps from a single codebase.
 
 ## Introducing Blockchain
-The blockchain technology (aka distributed ledger technology) became famous as it is used by Bitcoin.  
+The blockchain technology (aka distributed ledger technology) became famous as it is used e.g. by Bitcoin.  
 
 ## Introducing Ethereum
 [Ethereum](https://ethereum.org/en) is a blockchain based open source platform for decentralized applications.
@@ -50,6 +50,9 @@ Peer 2 Peer enterprise is under development :D
 
 ## Introducing Augur
 [Augur](https://www.augur.net/) is a decentralized betting- / truth finding platform. 
+
+## Introducing Aave
+[Aave](https://aave.com/) can be seen as a DeFi offering replacing traditional banking service offerings.
 
 
 
