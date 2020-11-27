@@ -19,16 +19,16 @@ Backend development typically refers to the development process of code which is
 [TypeScript](https://www.typescriptlang.org/) is a relatively new frequently used programming language. 
 
 ## Introducing Deno
-[Deno](https://deno.land/) is a Runtime Environment to trigger / run TypeScript and JavaScript code.
+[Deno](https://deno.land/) is a Runtime Environment to trigger / run TypeScript and JavaScript code. [Video](https://www.youtube.com/watch?v=mhnpeOLiQTg)
 
 ## Introducing Nest.land
 [Deno](https://nest.land/) represents a permanent distributed registry for Deno modules rewarding successful contributors.
 
 ## Introducing Frontend Development Frameworks
-Frontend development frameworks simplify the development process of code which is executed in the frontend / client / browser.   
+Frontend development frameworks simplify the development of code which is executed in the frontend / client (e.g. browser).   
 
 ## Introducing Flutter
-[Flutter](https://flutter.dev/) is a toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+[Flutter](https://flutter.dev/) is a toolkit for building native mobile-, web-, and desktop- apps from a single codebase.
 
 ## Introducing Blockchain
 The blockchain technology (aka distributed ledger technology) became famous as it is used by Bitcoin.  
