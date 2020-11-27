@@ -1,10 +1,10 @@
 # Web Development
 
-## Introducing Git & GitHub
-[GitHub](https://github.com/) can be seen as a collaboration platform which leverages [Git](https://git-scm.com/downloads).
-
 ## Introducing Visual Studio Code
 [Visual Studio Code](https://code.visualstudio.com/insiders/) is an integrated development environment (IDE).
+
+## Introducing Git & GitHub
+[GitHub](https://github.com/) can be seen as a collaboration platform which leverages [Git](https://git-scm.com/downloads).
 
 ## Introducing Frontend Development
 Frontend development refers to the development process of code which is executed on client side - e.g. in a browser.
