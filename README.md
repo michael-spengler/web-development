@@ -10,7 +10,7 @@
 [Visual Studio Code](https://code.visualstudio.com/insiders/) is an integrated development environment (IDE).
 
 ## Introducing Frontend Development
-Frontend development typically refers to the development process of code which is executed on client side - e.g. in a browser.
+Frontend development refers to the development process of code which is executed on client side - e.g. in a browser.
 
 ## Introducing Backend Development
 Backend development typically refers to the development process of code which is executed on server side.
@@ -25,22 +25,31 @@ Backend development typically refers to the development process of code which is
 [Deno](https://nest.land/) represents a permanent distributed registry for Deno modules rewarding successful contributors.
 
 ## Introducing Frontend Development Frameworks
-Frontend development frameworks simplify the development process of code which is executed in the frontend / client (e.g. in the browser).   
-Examples: [Angular](https://angular.io/), [Vue](https://vuejs.org/)
+Frontend development frameworks simplify the development process of code which is executed in the frontend / client / browser.   
 
 ## Introducing Flutter
 [Flutter](https://flutter.dev/) is a toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
 ## Introducing Blockchain
-The blockchain technology first became famous as it is used by the world's most famous crypto currency named Bitcoin.  
-In this context the blockchain can be regarded as a distributed ledger, which stores all Bitcoin transactions which have ever been made.  
+The blockchain technology (aka distributed ledger technology) became famous as it is used by Bitcoin.  
 
 ## Introducing Ethereum
+[Ethereum](https://ethereum.org/en) is a blockchain based open source platform for decentralized applications.
 
 ## Introducing Smart Contracts
+A "smart contract" is a program that runs on the Ethereum blockchain.
 
 ## Introducing GitCoin
+[GitCoin](https://gitcoin.co/) is a great thing incentivizing fruitful collaboration.
 
 ## Introducing Verto 
+[Verto](https://verto.exchange/) is a decentralized token exchange.
 
 ## Introducing Peer 2 Peer Enterprise
+Peer 2 Peer enterprise is under development :D 
+
+## Introducing Augur
+[Augur](https://www.augur.net/) is a decentralized betting- / truth finding platform. 
+
+
+
