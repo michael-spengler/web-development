@@ -33,8 +33,8 @@ The blockchain technology (aka distributed ledger technology) became famous as i
 ## Introducing Ethereum
 [Ethereum](https://ethereum.org/en) is a blockchain based open source platform for decentralized applications. [Video tbd]()
 
-## Introducing Brave 
-[Brave](https://brave.com) is a web browser with integrated crypto wallet features. [Video tbd]()
+## Introducing Brave & MetaMask
+[Brave](https://brave.com) is a web browser with integrated crypto wallet features. [Video](https://www.youtube.com/watch?v=avHmwThJ_-g)
 
 ## Introducing Smart Contracts
 A "smart contract" is a program that runs on the Ethereum blockchain. [Video tbd]()
@@ -44,6 +44,9 @@ A "smart contract" is a program that runs on the Ethereum blockchain. [Video tbd
 
 ## Introducing Verto 
 [Verto](https://verto.exchange/) is a decentralized token exchange. [Video tbd]()
+
+## Introducing Guarda
+[Guarda.co](https://guarda.co) provides a convenient web wallets for several crypto currencies. [Video](https://www.youtube.com/watch?v=hTqqTU2msOc)
 
 ## Introducing Peer 2 Peer Enterprise
 Peer 2 Peer enterprise is under construction :D [Video tbd]()
