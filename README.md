@@ -16,43 +16,43 @@ Backend development typically refers to the development process of code which is
 [GitHub Actions](https://github.com/features/actions) simplify the definition / implementation of workflows. [Video](https://youtu.be/RqrhFTSFsyc)
 
 ## Introducing Deno
-[Deno](https://deno.land/) is a Runtime Environment to trigger / run [TypeScript](https://www.typescriptlang.org/) and JavaScript code. [Video](https://www.youtube.com/watch?v=mhnpeOLiQTg) [Video]()
+[Deno](https://deno.land/) is a Runtime Environment to trigger / run [TypeScript](https://www.typescriptlang.org/) and JavaScript code. [Video](https://www.youtube.com/watch?v=mhnpeOLiQTg)
 
 ## Introducing Nest.land
-[Deno](https://nest.land/) represents a permanent distributed registry for Deno modules rewarding successful contributors. [Video]()
+[Deno](https://nest.land/) represents a permanent distributed registry for Deno modules rewarding successful contributors. [Video tbd]()
 
 ## Introducing Frontend Development Frameworks
-Frontend development frameworks simplify the development of code which is executed in the frontend / client (e.g. browser). [Video]()  
+Frontend development frameworks simplify the development of code which is executed in the frontend / client (e.g. browser). [Video tbd]()  
 
 ## Introducing Flutter
-[Flutter](https://flutter.dev/) is a toolkit for building native mobile-, web-, and desktop- apps from a single codebase. [Video]()
+[Flutter](https://flutter.dev/) is a toolkit for building native mobile-, web-, and desktop- apps from a single codebase. [Video tbd]()
 
 ## Introducing Blockchain
-The blockchain technology (aka distributed ledger technology) became famous as it is used e.g. by Bitcoin. [Video]() 
+The blockchain technology (aka distributed ledger technology) became famous as it is used e.g. by Bitcoin. [Video tbd]() 
 
 ## Introducing Ethereum
-[Ethereum](https://ethereum.org/en) is a blockchain based open source platform for decentralized applications. [Video]()
+[Ethereum](https://ethereum.org/en) is a blockchain based open source platform for decentralized applications. [Video tbd]()
 
 ## Introducing Brave 
-[Brave](https://brave.com) is a web browser with integrated crypto wallet features. [Video]()
+[Brave](https://brave.com) is a web browser with integrated crypto wallet features. [Video tbd]()
 
 ## Introducing Smart Contracts
-A "smart contract" is a program that runs on the Ethereum blockchain. [Video]()
+A "smart contract" is a program that runs on the Ethereum blockchain. [Video tbd]()
 
 ## Introducing GitCoin
-[GitCoin](https://gitcoin.co/) is a great thing incentivizing fruitful collaboration. [Video]()
+[GitCoin](https://gitcoin.co/) is a great thing incentivizing fruitful collaboration. [Video tbd]()
 
 ## Introducing Verto 
-[Verto](https://verto.exchange/) is a decentralized token exchange. [Video]()
+[Verto](https://verto.exchange/) is a decentralized token exchange. [Video tbd]()
 
 ## Introducing Peer 2 Peer Enterprise
-Peer 2 Peer enterprise is under construction :D [Video]()
+Peer 2 Peer enterprise is under construction :D [Video tbd]()
 
 ## Introducing Augur
-[Augur](https://www.augur.net/) is a decentralized betting- / truth finding platform. [Video]()
+[Augur](https://www.augur.net/) is a decentralized betting- / truth finding platform. [Video tbd]()
 
 ## Introducing Aave
-[Aave](https://aave.com/) can be seen as a DeFi offering replacing traditional banking service offerings. [Video]()
+[Aave](https://aave.com/) can be seen as a DeFi offering replacing traditional banking service offerings. [Video tbd]()
 
 
 
