@@ -12,6 +12,9 @@ Frontend development refers to the development process of code which is executed
 ## Introducing Backend Development
 Backend development typically refers to the development process of code which is executed on server side. [Video](https://youtu.be/DZ7_0IzStQM)
 
+## Introducing GitHub Action based Deployments
+[GitHub Actions](https://github.com/features/actions) simplify the definition / implementation of workflows. [Video](https://youtu.be/RqrhFTSFsyc)
+
 ## Introducing Deno
 [Deno](https://deno.land/) is a Runtime Environment to trigger / run [TypeScript](https://www.typescriptlang.org/) and JavaScript code. [Video](https://www.youtube.com/watch?v=mhnpeOLiQTg) [Video]()
 
